@@ -1,0 +1,16 @@
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+langchain-tavily
+tavily-python
+beautifulsoup4
+requests
+lxml
+python-dotenv
+pydantic
+tenacity
+tiktoken
+httpx
